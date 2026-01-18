@@ -1,5 +1,5 @@
 # Patel-Prince
 this   is my first github repository.
 <br>
-Author  -  Patel prince 
+Author  -  raj shoni & patel prince 
 
