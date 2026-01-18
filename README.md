@@ -2,5 +2,5 @@
 this   is my first github repository.
 <br>
 <br>
-Author  -  raj shoni <br> patel prince 
+Author  -  pd with  code 
 
